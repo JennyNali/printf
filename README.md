@@ -47,7 +47,7 @@ int main(void)
 {
     int i = 10;
     int print;
-    char *s = "printf by Teddy & Mark";
+    char *s = "printf by Jennifer & Adejumoke";
     _printf("%d %s %c\n", i, s, 'c');
      print =  _printf("%d", s); /* get number of characters */
      printf("%d\n", print); /* print number of characters */
